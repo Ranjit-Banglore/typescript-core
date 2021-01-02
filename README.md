@@ -21,3 +21,5 @@ Examples of basic typescript concepts
 # setting up projects:
 
 `tsc --init (create ts-config.js file)`
+
+`tsc -watch (to start typescript compiler in watch mode.)`
