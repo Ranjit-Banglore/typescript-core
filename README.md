@@ -17,3 +17,7 @@ Examples of basic typescript concepts
 `Ctrl +Shift +I`
 
 `Ctrl +S (save and format code, super usefule :-) )`
+
+# setting up projects:
+
+`tsc --init (create ts-config.js file)`
