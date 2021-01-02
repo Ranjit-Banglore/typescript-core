@@ -2,6 +2,14 @@
 
 Examples of basic typescript concepts
 
+# to start application
+
+` npm install`
+
+` npm start`
+
+`tsc -watch (in seperate terminal)`
+
 # setup projects:
 
 `sudo npm install -g typescript`
